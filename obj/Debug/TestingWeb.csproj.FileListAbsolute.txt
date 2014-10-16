@@ -1,0 +1,7 @@
+D:\projects\CSHARP\TestingWeb\TestingWeb\obj\Debug\TestingWeb.csprojResolveAssemblyReference.cache
+D:\projects\CSHARP\TestingWeb\TestingWeb\bin\TestingWeb.dll
+D:\projects\CSHARP\TestingWeb\TestingWeb\bin\TestingWeb.pdb
+D:\projects\CSHARP\TestingWeb\TestingWeb\bin\System.Data.dll
+D:\projects\CSHARP\TestingWeb\TestingWeb\bin\System.Data.Entity.dll
+D:\projects\CSHARP\TestingWeb\TestingWeb\obj\Debug\TestingWeb.dll
+D:\projects\CSHARP\TestingWeb\TestingWeb\obj\Debug\TestingWeb.pdb
